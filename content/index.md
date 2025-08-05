@@ -10,7 +10,12 @@ Regras da brincadeira:
 - Não pode enviar músicas de autores que foram eliminados.
 
 ## Jogadores
-- [Kanna](Membros/Kanna.md)
-- [Octavus](Membros/Octavus.md)
-- [DJ](Membros/DJ.md)
+- [Kanna](Jogadores/Kanna.md)
+- [Octavus](Jogadores/Octavus.md)
+- [Horb](Jogadores/Horb.md)
+- [Ratman](Jogadores/Ratman.md)
+- [Gabzin](Jogadores/Gabzin.md)
+- [Choco](Jogadores/Choco.md)
+- [Dusttale](Jogadores/Dusttale.md)
+- [DJ](Jogadores/DJ.md)
 
