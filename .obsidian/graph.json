@@ -5,41 +5,27 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "[\"draft\":true]",
-      "color": {
-        "a": 1,
-        "rgb": 0
-      }
-    },
-    {
-      "query": "tag:#Átomo  ",
-      "color": {
-        "a": 1,
-        "rgb": 14481742
-      }
-    },
-    {
-      "query": "tag:#Entrada  ",
-      "color": {
-        "a": 1,
-        "rgb": 3423225
-      }
-    },
-    {
-      "query": "tag:#Mapa  ",
-      "color": {
-        "a": 1,
-        "rgb": 4060477
-      }
-    },
-    {
-      "query": "tag:#Retorno  ",
+      "query": "path:content/Autores  ",
       "color": {
         "a": 1,
         "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:content/Jogadores  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:content/Músicas  ",
+      "color": {
+        "a": 1,
+        "rgb": 7935
       }
     }
   ],
@@ -49,10 +35,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.432291666666667,
+  "centerStrength": 1,
   "repelStrength": 20,
-  "linkStrength": 0.760416666666667,
+  "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 1.2061194567747087,
-  "close": true
+  "scale": 0.8040796378498057,
+  "close": false
 }
