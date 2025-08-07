@@ -1,0 +1,4 @@
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nLAJ4_eORd4?si=YDko1VP8L-dciRaj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Autores:** [Chrono](../Autores/Chrono.md) ft. [Henrique Mendonça](../Autores/Henrique%20Mendonça.md), [7Minutoz](../Autores/7Minutoz.md), [M4rkim](../Autores/M4rkim.md), [Shiny](../Autores/Shiny.md), [Shooter](../Autores/Shooter.md), [Mistery](../Autores/Mistery.md), [Taka](../Autores/Taka.md), [Anny](../Autores/Anny.md), [nikmouu](../Autores/nikmouu.md), [Daarui](../Autores/Daarui.md)
+- **Jogador:** [Octavus](content/Jogadores/Octavus.md)

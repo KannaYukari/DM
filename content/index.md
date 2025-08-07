@@ -18,4 +18,5 @@ Regras da brincadeira:
 - [Choco](Jogadores/Choco.md)
 - [Dusttale](Jogadores/Dusttale.md)
 - [DJ](Jogadores/DJ.md)
+- [Lain](Jogadores/Lain.md)
 
