@@ -1,0 +1,4 @@
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EW7p8rFFR_0?si=WKmNUY0b3P57ZT8Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Autores:** [Hoshi Sōichirō](../Autores/Hoshi%20Sōichirō.md) (Keiichi Maebara), [Satsuki Yukino](../Autores/Satsuki%20Yukino.md) (Shion e Mion Sonozaki ), [Mai Nakahara](../Autores/Mai%20Nakahara.md) (Rena Ryugu),  [Mika Kanai](../Autores/Mika%20Kanai.md) (Satoko Houjou), [Yui Horie](../Autores/Yui%20Horie.md) (Hanyu), [Mitsuki Saiga](../Autores/Mitsuki%20Saiga.md) (Satoshi Houjou), [Yukari Tamura](../Autores/Yukari%20Tamura.md) (Rika Furude)
+- **Jogador:** [Kanna](content/Jogadores/Kanna.md)

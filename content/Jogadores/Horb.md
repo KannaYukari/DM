@@ -9,3 +9,8 @@
 
 - **Música:** [Blame](../Músicas/Blame.md)
 - **Autores:** [graves](../Autores/graves.md)  ft. [LocateEmilio](../Autores/LocateEmilio.md)
+## D - doce mágico
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tbAGaDPOouo?si=iIg967CIktBEM1Q_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [doce mágico](../Músicas/doce%20mágico.md)
+- **Autores:** [Teto](../Autores/Teto.md) ft. [Menor MC](../Autores/Menor%20MC.md), [DJ Matt D](../Autores/DJ%20Matt%20D.md)

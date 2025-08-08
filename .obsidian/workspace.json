@@ -11,10 +11,14 @@
             "id": "039a57a6fce2d885",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "content/Músicas/Dear you - Kizuna.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dear you - Kizuna"
             }
           }
         ]
@@ -84,6 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "content/Músicas/Dear you - Kizuna.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -111,7 +116,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Dear you - Kizuna"
             }
           }
         ]
@@ -209,34 +214,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "039a57a6fce2d885",
+  "active": "8afc08e9adc94d60",
   "lastOpenFiles": [
+    "content/Jogadores/Kanna.md",
+    "content/Autores/Yui Horie.md",
+    "content/Autores/Yukari Tamura.md",
+    "content/Autores/Hoshi Sōichirō.md",
+    "content/Músicas/Dear you - Kizuna.md",
+    "content/Autores/Mai Nakahara.md",
+    "content/Autores/Mika Kanai.md",
+    "content/Autores/Mitsuki Saiga.md",
+    "content/Autores/Satsuki Yukino.md",
+    "content/Jogadores/Octavus.md",
+    "content/Músicas/Don’t Stop The Party.md",
+    "content/Autores/The Black Eyed Peas.md",
+    "content/Jogadores/Choco.md",
+    "content/Músicas/Don't look back.md",
+    "content/Autores/Siinamota.md",
+    "content/Jogadores/Horb.md",
+    "content/Músicas/doce mágico.md",
+    "content/Autores/Teto.md",
+    "content/Autores/Menor MC.md",
+    "content/Autores/DJ Matt D.md",
+    "content/Jogadores/Ratman.md",
+    "content/Músicas/Dirty Deeds Done Dirt Cheap.md",
+    "content/Autores/AC_DC.md",
+    "AC",
+    "templates/envio.md",
     "content/index.md",
     "content/Autores/Caio Ocean.md",
-    "content/Jogadores/Lain.md",
-    "content/Músicas/Caras como eu.md",
-    "content/Autores/João De Barro.md",
-    "content/Jogadores/Kanna.md",
-    "content/Músicas/Carinhoso.md",
-    "content/Autores/Marisa Monte.md",
-    "content/Autores/Paulinho da Viola.md",
-    "content/Autores/Pixinguinha.md",
-    "content/Autores/Kirari Tsukishima.md",
-    "content/Jogadores/Ratman.md",
-    "content/Autores/Tenshy.md",
-    "content/Músicas/Cicatrizes.md",
-    "content/Autores/Zein.md",
-    "content/Autores/Mariya Ise.md",
-    "Ristsu.md",
-    "content/Jogadores/Choco.md",
-    "content/Músicas/CHOCOLAT.md",
-    "content/Autores/TCY FORCE.md",
-    "content/Autores/Shooter.md",
-    "content/Autores/Taka.md",
-    "content/Jogadores/Octavus.md",
-    "content/Músicas/CAMINHO DA VITÓRIA.md",
-    "content/Autores/Shiny.md",
-    "content/Autores/Anny.md",
     "quartz/static/og-image.png",
     "templates",
     "content/notas/2025/07/03/entrada",
@@ -247,7 +253,6 @@
     "content/notas/2025/06/29/entrada",
     "content/notas/2025/06/29",
     "content/notas/2025/06/28/entrada",
-    "content/notas/2025/06/28",
     "content/assets/images/2025/Reconhecimento_cores.webp.webp",
     "Excalidraw/Como_aprendemos.excalidraw.svg",
     "Excalidraw/Cognicao_metacognicao.excalidraw.svg",
