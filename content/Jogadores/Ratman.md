@@ -16,5 +16,10 @@
 ## D - Dirty Deeds Done Dirt Cheap
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jsjdjWGDvFk?si=ET_g5cGx2QuUacOV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-- **Música:** [[../Músicas/Dirty Deeds Done Dirt Cheap]]
+- **Música:** [Dirty Deeds Done Dirt Cheap](../Músicas/Dirty%20Deeds%20Done%20Dirt%20Cheap.md)
 - **Autores:**  [AC/DC](../Autores/AC_DC.md) 
+## E - Efeito Colateral
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NXSg0mUIwX4?si=NGGyjNcyqVgPPKcl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Efeito Colateral](../../Efeito%20Colateral.md)
+- **Autores:** [Raphyx](../../Raphyx.md)
