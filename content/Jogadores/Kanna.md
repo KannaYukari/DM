@@ -19,3 +19,8 @@
 
 - **Música:** [Dear you - Kizuna](../Músicas/Dear%20you%20-%20Kizuna.md)
 - **Autores:** [Hoshi Sōichirō](../Autores/Hoshi%20Sōichirō.md) (Keiichi Maebara), [Satsuki Yukino](../Autores/Satsuki%20Yukino.md) (Shion e Mion Sonozaki ), [Mai Nakahara](../Autores/Mai%20Nakahara.md) (Rena Ryugu),  [Mika Kanai](../Autores/Mika%20Kanai.md) (Satoko Houjou), [Yui Horie](../Autores/Yui%20Horie.md) (Hanyu), [Mitsuki Saiga](../Autores/Mitsuki%20Saiga.md) (Satoshi Houjou), [Yukari Tamura](../Autores/Yukari%20Tamura.md) (Rika Furude)
+## E - end of a life
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BXB26PzV31k?si=-7bcuBrvk_36zI5q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [end of a life](../../end%20of%20a%20life.md)
+- **Autores:** [Calliope Mori](../../Calliope%20Mori.md)

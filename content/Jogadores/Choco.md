@@ -19,3 +19,8 @@
 
 - **Música:** [Don't look back](../Músicas/Don't%20look%20back.md)
 - **Autores:** [Siinamota](../Autores/Siinamota.md)
+## E - Everybody Wants To Rule The World
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7p2HqW9J1iU?si=9jrI0vG9iEjPhDq6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Everybody Wants To Rule The World](../Músicas/Everybody%20Wants%20To%20Rule%20The%20World.md)
+- **Autores:** [Tears For Fears](../Autores/Tears%20For%20Fears.md)

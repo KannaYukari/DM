@@ -20,3 +20,8 @@
 
 - **Música:** [Don’t Stop The Party](../Músicas/Don’t%20Stop%20The%20Party.md)
 - **Autores:** [The Black Eyed Peas](../Autores/The%20Black%20Eyed%20Peas.md)
+## E - Everybody Loves Me
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j8sb_Or0FUs?si=U6TlUhdflXolnedg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Everybody Loves Me](../Músicas/Everybody%20Loves%20Me.md)
+- **Autores:** [OneRepublic](../Autores/OneRepublic.md)
