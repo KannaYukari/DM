@@ -24,3 +24,13 @@
 
 - **Música:** [Everybody Wants To Rule The World](../Músicas/Everybody%20Wants%20To%20Rule%20The%20World.md)
 - **Autores:** [Tears For Fears](../Autores/Tears%20For%20Fears.md)
+## F - Fuyukan UFO
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ruv7cG9zIeA?si=dEu0T-hQTFRgM2Oc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Fuyukan UFO](../Músicas/Fuyukan%20UFO.md)
+- **Autores:** [Mito Tsukino](../Autores/Mito%20Tsukino.md)
+## G - Golden Brown
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UZJFFStQemI?si=Pcul92GaaD-VUVb8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Golden Brown](../Músicas/Golden%20Brown.md)
+- **Autores:** [The Stranglers](../Autores/The%20Stranglers.md)

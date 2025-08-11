@@ -22,5 +22,15 @@
 ## E - end of a life
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BXB26PzV31k?si=-7bcuBrvk_36zI5q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-- **Música:** [end of a life](../../end%20of%20a%20life.md)
-- **Autores:** [Calliope Mori](../../Calliope%20Mori.md)
+- **Música:** [end of a life](../Músicas/end%20of%20a%20life.md)
+- **Autores:** [Calliope Mori](../Autores/Calliope%20Mori.md)
+## F - Fight Another Day
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyRSMCcz3W0?si=R1LStekU9Kk4-s_7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Fight Another Day](../Músicas/Fight%20Another%20Day.md)
+- **Autores:** [Kat Penkin](../Autores/Kat%20Penkin.md) e [Andy Tunstall](../Autores/Andy%20Tunstall.md)
+## G - Gatinha comunista
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-baB66elbtc?si=gZ6hw6JHILbXmzMe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Gatinha comunista](../Músicas/Gatinha%20comunista.md)
+- **Autores:** [Vitroles](../Autores/Vitroles.md)

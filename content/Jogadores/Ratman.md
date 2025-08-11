@@ -21,5 +21,15 @@
 ## E - Efeito Colateral
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NXSg0mUIwX4?si=NGGyjNcyqVgPPKcl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-- **Música:** [Efeito Colateral](../../Efeito%20Colateral.md)
-- **Autores:** [Raphyx](../../Raphyx.md)
+- **Música:** [Efeito Colateral](../Músicas/Efeito%20Colateral.md)
+- **Autores:** [Raphyx](../Autores/Raphyx.md)
+## F - Fúria Saiyajin | Gohan (Dragon Ball Z) 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kPh8t0Ho_J4?si=8QRasiRmwzrsDbMS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Fúria Saiyajin - Gohan (Dragon Ball Z)](../Músicas/Fúria%20Saiyajin%20-%20Gohan%20(Dragon%20Ball%20Z).md)
+- **Autores:** [Basara](../Autores/Basara.md)
+## G - Goodnight
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eyn-kjPgMY0?si=u7nxawAeyNbfwIg7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Goodnight](../Músicas/Goodnight.md)
+- **Autores:** [Shaman](../Autores/Shaman.md)

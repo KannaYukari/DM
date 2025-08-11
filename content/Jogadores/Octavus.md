@@ -25,3 +25,13 @@
 
 - **Música:** [Everybody Loves Me](../Músicas/Everybody%20Loves%20Me.md)
 - **Autores:** [OneRepublic](../Autores/OneRepublic.md)
+## F - Feel Good Inc.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HyHNuVaZJ-k?si=bevccmLv2e7RV9FU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Feel Good Inc.](../Músicas/Feel%20Good%20Inc..md)
+- **Autores:** [Gorillaz](../Autores/Gorillaz.md)
+## G - Great Days
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mU3vgXUKeFM?si=7hT-bZ5P98vPC2u_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Great Days](../Músicas/Great%20Days.md)
+- **Autores:** [Karen Aoki](../Autores/Karen%20Aoki.md) & [Daisuke Hasegawa](../Autores/Daisuke%20Hasegawa.md)

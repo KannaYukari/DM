@@ -9,8 +9,28 @@
 
 - **Música:** [Blame](../Músicas/Blame.md)
 - **Autores:** [graves](../Autores/graves.md)  ft. [LocateEmilio](../Autores/LocateEmilio.md)
+## C - Consume
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oCdXuomafSU?si=L4idyES7dEJ6r1EC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Consume](../Músicas/Consume.md)
+- **Autores:** [Chase Atlantic](../Autores/Chase%20Atlantic.md) ft. [Goon Des Garcons](../Autores/Goon%20Des%20Garcons.md)
 ## D - doce mágico
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tbAGaDPOouo?si=iIg967CIktBEM1Q_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 - **Música:** [doce mágico](../Músicas/doce%20mágico.md)
 - **Autores:** [Teto](../Autores/Teto.md) ft. [Menor MC](../Autores/Menor%20MC.md), [DJ Matt D](../Autores/DJ%20Matt%20D.md)
+## E - Engana Dizendo Que Ama
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4Qta7cMSXc4?si=IctwsZF4CwmrmHPA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Engana Dizendo Que Ama](../Músicas/Engana%20Dizendo%20Que%20Ama.md)
+- **Autores:** [Veigh](../Autores/Veigh.md) ft. [TZ da coronel](../Autores/TZ%20da%20coronel.md)
+## F - Fire
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r7ECTqXQ-fI?si=wYmrrkWfv7KFF67c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Fire](../Músicas/Fire.md)
+- **Autores:** [Barns Courtney](../Autores/Barns%20Courtney.md)
+## G - Gênio (Nagi)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/skU-JK04gM4?si=zVzHg7bCbEj8mngG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Gênio (Nagi)](../Músicas/Gênio%20(Nagi).md)
+- **Autores:** [Dan](../Autores/Dan.md)
