@@ -11,10 +11,14 @@
             "id": "b496fa916d3919c5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "content/Autores/Panic! At The Disco.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Panic! At The Disco"
             }
           }
         ]
@@ -84,6 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "content/Autores/Panic! At The Disco.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -111,15 +116,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Panic! At The Disco"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 345.5,
-    "collapsed": true
+    "width": 345.5
   },
   "right": {
     "id": "70366b6089a4156a",
@@ -210,34 +214,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b496fa916d3919c5",
+  "active": "8afc08e9adc94d60",
   "lastOpenFiles": [
+    "content/Músicas/High Hopes.md",
+    "content/Músicas/I Wanna Be Yours.md",
+    "content/Músicas/Immortals.md",
+    "content/Autores/Aimee Mann.md",
     "content/Jogadores/Kanna.md",
+    "content/Músicas/Itsumo Nando Demo.md",
+    "content/Autores/Erutan.md",
+    "content/Autores/Sumi Shimamoto.md",
+    "joe hisaishi.md",
+    "content/Jogadores/Choco.md",
+    "content/Músicas/Independent Together.md",
+    "content/Autores/Ted Leo.md",
+    "content/Autores/Deedee Magno Hall.md",
+    "content/Jogadores/Octavus.md",
+    "content/Autores/Fall Out Boy.md",
+    "content/Jogadores/Ratman.md",
+    "content/Músicas/Insuficiência Cósmica.md",
+    "content/Autores/VMZ.md",
+    "content/Jogadores/Horb.md",
+    "content/Autores/Arctic Monkeys.md",
+    "templates/envio.md",
+    "content/Autores/Panic! At The Disco.md",
     "content/Músicas/Hana.md",
     "content/Autores/Rimi Natsukawa.md",
-    "content/Jogadores/Ratman.md",
     "content/Músicas/Heart Of Glass.md",
     "content/Autores/Alohaii.md",
-    "content/Autores/Rachie.md",
-    "content/Jogadores/Octavus.md",
-    "content/Músicas/Hey Ya!.md",
-    "content/Autores/Outkast.md",
-    "content/Jogadores/Choco.md",
-    "content/Músicas/HelLO wOnder WorLd♣.md",
-    "content/Autores/Alice×Toxic.md",
-    "templates/envio.md",
-    "content/Autores/Vitroles.md",
-    "content/Autores/The Stranglers.md",
-    "content/Autores/Shaman.md",
-    "content/Autores/Karen Aoki.md",
-    "content/Autores/Goon Des Garcons.md",
-    "content/Músicas/Golden Brown.md",
-    "content/Músicas/Gênio (Nagi).md",
-    "content/Músicas/Gatinha comunista.md",
-    "content/Autores/Dan.md",
-    "content/Autores/Daisuke Hasegawa.md",
-    "content/Músicas/Consume.md",
-    "content/Autores/Chase Atlantic.md",
     "AC",
     "quartz/static/og-image.png",
     "templates",

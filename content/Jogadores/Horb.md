@@ -34,3 +34,13 @@
 
 - **Música:** [Gênio (Nagi)](../Músicas/Gênio%20(Nagi).md)
 - **Autores:** [Dan](../Autores/Dan.md)
+## H - High Hopes
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IPXIgEAGe4U?si=tidNj-emgW9UAbYY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [High Hopes](../Músicas/High%20Hopes.md)
+- **Autores:** [Panic! At The Disco](../Autores/Panic!%20At%20The%20Disco.md)
+## I - I Wanna Be Yours
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nyuo9-OjNNg?si=sWvNRKxTMJ6BpFkD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [I Wanna Be Yours](../Músicas/I%20Wanna%20Be%20Yours.md)
+- **Autores:** [Arctic Monkeys](../Autores/Arctic%20Monkeys.md)

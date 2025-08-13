@@ -38,3 +38,8 @@
 
 - **Música:** [Heart Of Glass](../Músicas/Heart%20Of%20Glass.md)
 - **Autores:** [Alohaii](../Autores/Alohaii.md) ft. [Rachie](../Autores/Rachie.md)
+## I - Insuficiência Cósmica
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b_ThPYffRbo?si=gfYWUHFi1aPFRj60" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Insuficiência Cósmica](../Músicas/Insuficiência%20Cósmica.md)
+- **Autores:** [VMZ](../Autores/VMZ.md)
