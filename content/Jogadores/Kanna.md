@@ -45,3 +45,8 @@
 
 - **Música:** [Itsumo Nando Demo](../Músicas/Itsumo%20Nando%20Demo.md)
 - **Autores:** [Erutan](../Autores/Erutan.md) (cover de: [Sumi Shimamoto](../Autores/Sumi%20Shimamoto.md))
+## J - João e Maria
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Fxu-pE74m5A?si=RKkc6uufgMMjONr8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [[João e Maria]]
+- **Autores:** [[Chico Buarque]]

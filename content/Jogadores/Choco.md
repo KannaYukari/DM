@@ -44,3 +44,8 @@
 
 - **Música:** [Independent Together](../Músicas/Independent%20Together.md)
 - **Autores:** [Ted Leo](../Autores/Ted%20Leo.md), [Deedee Magno Hall](../Autores/Deedee%20Magno%20Hall.md) & [Aimee Mann](../Autores/Aimee%20Mann.md)
+## J - Jack & Jeanne Of Quartz
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Mr9oLOiDXEI?si=wPCiNicV7LHGQ3yJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Jack & Jeanne Of Quartz](../../Jack%20&%20Jeanne%20Of%20Quartz.md)
+- **Autores:** [Yuka Terasaki](../../Yuka%20Terasaki.md), [Takayuki Kondo](../../Takayuki%20Kondo.md), [Jun Kasama](../../Jun%20Kasama.md), [Daisuke Kishio](../../Daisuke%20Kishio.md), [Gakuto Kajiwara](../../Gakuto%20Kajiwara.md), [Yuma Uchida](../../Yuma%20Uchida.md), [Gen Sato](../../Gen%20Sato.md)
