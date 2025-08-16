@@ -47,5 +47,15 @@
 ## J - Judgement Day
 <iframe width="560" height="315" src="https://www.youtube.com/embed/raiNpvnpAV4?si=iauoU8v_TfeFEp8R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-- **Música:** [Judgement Day](../../Judgement%20Day.md)
-- **Autores:** [Stealth](../../Stealth.md)
+- **Música:** [Judgement Day](../Músicas/Judgement%20Day.md)
+- **Autores:** [Stealth](../Autores/Stealth.md)
+## K - Kallidade
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A3ThgcXZEG8?si=G0CLVxHj5Fm-jokq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Kallidade](../Músicas/Kallidade.md)
+- **Autores:** [Kalli](../Autores/Kalli.md)
+## L - Love Me
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X_uoq5xCaFc?si=HEayMAcz17phVRgT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Love Me](../Músicas/Love%20Me.md)
+- **Autores:** [Lil Wayne](../Autores/Lil%20Wayne.md) ft. [Drake](../Autores/Drake.md) e [Future](../Autores/Future.md)

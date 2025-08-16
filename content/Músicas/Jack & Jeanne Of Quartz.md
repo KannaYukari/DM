@@ -1,4 +1,4 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Mr9oLOiDXEI?si=wPCiNicV7LHGQ3yJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-- **Autores:** [Yuka Terasaki](../../Yuka%20Terasaki.md), [Takayuki Kondo](../../Takayuki%20Kondo.md), [Jun Kasama](../../Jun%20Kasama.md), [Daisuke Kishio](../../Daisuke%20Kishio.md), [Gakuto Kajiwara](../../Gakuto%20Kajiwara.md), [Yuma Uchida](../../Yuma%20Uchida.md), [Gen Sato](../../Gen%20Sato.md)
+- **Autores:** [Yuka Terasaki](../Autores/Yuka%20Terasaki.md), [Takayuki Kondo](../Autores/Takayuki%20Kondo.md), [Jun Kasama](content/Autores/Jun%20Kasama.md), [Daisuke Kishio](content/Autores/Daisuke%20Kishio.md), [Gakuto Kajiwara](content/Autores/Gakuto%20Kajiwara.md), [Yuma Uchida](../Autores/Yuma%20Uchida.md), [Gen Sato](content/Autores/Gen%20Sato.md)
 - **Jogador:** [Choco](content/Jogadores/Choco.md)

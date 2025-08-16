@@ -46,5 +46,15 @@
 ## J - Jack Vigarista
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0pogFPd3fAI?si=NOR-viKYWb_BeksG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-- **Música:** [Jack Vigarista](../../Jack%20Vigarista.md)
-- **Autores:** [Koda](../../Koda.md)
+- **Música:** [Jack Vigarista](../Músicas/Jack%20Vigarista.md)
+- **Autores:** [Koda](../Autores/Koda.md)
+## K - Karma
+<iframe width="560" height="315" src="https://www.youtube.com/embed/REZdvfIRI5U?si=mGInEi_nSYCeoaOR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Karma](../Músicas/Karma.md)
+- **Autores:** [Kaito](../Autores/Kaito.md)
+## L - Liberdade e Pecados
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3Hy9tyyE108?si=oJLT29TJLt-5gQcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [[../Músicas/Liberdade e Pecados]]
+- **Autores:** [[../Autores/Onni]]

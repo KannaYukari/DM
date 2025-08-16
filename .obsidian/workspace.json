@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Jogadores/Octavus.md",
+                "file": "content/Autores/Lyn Inaizumi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Octavus"
+              "title": "Lyn Inaizumi"
             }
           }
         ]
@@ -88,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "content/Jogadores/Octavus.md",
+                "file": "content/Autores/Lyn Inaizumi.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -116,7 +116,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Octavus"
+              "title": "Graph of Lyn Inaizumi"
             }
           }
         ]
@@ -214,34 +214,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a2e512198eacff7c",
+  "active": "8afc08e9adc94d60",
   "lastOpenFiles": [
-    "Just Lose It.md",
-    "content/Jogadores/Octavus.md",
-    "Eminem.md",
-    "content/Jogadores/Horb.md",
-    "Judgement Day.md",
-    "Stealth.md",
+    "content/Músicas/La Fille Aux Cheveux De Lin.md",
     "content/Jogadores/Kanna.md",
-    "João e Maria.md",
-    "Chico Buarque.md",
+    "content/Autores/Yuki Kajiura.md",
+    "content/Autores/Claude Debussy.md",
+    "content/Músicas/Karma.md",
+    "content/Jogadores/Octavus.md",
+    "content/Músicas/Life Will Change.md",
+    "content/Autores/Shoji Meguro.md",
+    "content/Autores/Lyn Inaizumi.md",
+    "content/Autores/Onni.md",
+    "content/Músicas/Lust for a Vampyr.md",
+    "content/Músicas/Love Me.md",
+    "content/Músicas/Kallidade.md",
+    "content/Autores/Kaito.md",
+    "content/Autores/Drake.md",
     "content/Jogadores/Ratman.md",
-    "Jack Vigarista.md",
-    "Koda.md",
+    "content/Músicas/Liberdade e Pecados.md",
     "content/Jogadores/Choco.md",
-    "Jack & Jeanne Of Quartz.md",
-    "Yuka Terasaki.md",
-    "Takayuki Kondo.md",
-    "Jun Kasama.md",
-    "Daisuke Kishio.md",
-    "Gakuto Kajiwara.md",
-    "Yuma Uchida.md",
-    "Gen Sato.md",
+    "content/Autores/I Monster.md",
+    "content/Músicas/Key My Notes.md",
+    "content/Autores/Fragaria Memories.md",
+    "content/Jogadores/Horb.md",
+    "content/Autores/Lil Wayne.md",
+    "content/Autores/Future.md",
     "templates/envio.md",
-    "content/Autores/Panic! At The Disco.md",
-    "content/Músicas/High Hopes.md",
-    "content/Músicas/I Wanna Be Yours.md",
-    "content/Músicas/Immortals.md",
+    "content/Músicas/Katachi.md",
     "AC",
     "quartz/static/og-image.png",
     "templates",

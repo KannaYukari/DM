@@ -47,5 +47,15 @@
 ## J - Jack & Jeanne Of Quartz
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Mr9oLOiDXEI?si=wPCiNicV7LHGQ3yJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-- **Música:** [Jack & Jeanne Of Quartz](../../Jack%20&%20Jeanne%20Of%20Quartz.md)
-- **Autores:** [Yuka Terasaki](../../Yuka%20Terasaki.md), [Takayuki Kondo](../../Takayuki%20Kondo.md), [Jun Kasama](../../Jun%20Kasama.md), [Daisuke Kishio](../../Daisuke%20Kishio.md), [Gakuto Kajiwara](../../Gakuto%20Kajiwara.md), [Yuma Uchida](../../Yuma%20Uchida.md), [Gen Sato](../../Gen%20Sato.md)
+- **Música:** [Jack & Jeanne Of Quartz](../Músicas/Jack%20&%20Jeanne%20Of%20Quartz.md)
+- **Autores:** [Yuka Terasaki](../Autores/Yuka%20Terasaki.md), [Takayuki Kondo](../Autores/Takayuki%20Kondo.md), [Jun Kasama](../Autores/Jun%20Kasama.md), [Daisuke Kishio](../Autores/Daisuke%20Kishio.md), [Gakuto Kajiwara](../Autores/Gakuto%20Kajiwara.md), [Yuma Uchida](../Autores/Yuma%20Uchida.md), [Gen Sato](../Autores/Gen%20Sato.md)
+## K - Key My Notes
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PfdPZGHtrxk?si=EQs9H4v6VzOsELZO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Key My Notes](../Músicas/Key%20My%20Notes.md)
+- **Autores:** [Fragaria Memories](../Autores/Fragaria%20Memories.md)
+## L - Lust for a Vampyr
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DmkKsejNtmM?si=SxXr_l6wyeMLDXN7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Lust for a Vampyr](../Músicas/Lust%20for%20a%20Vampyr.md)
+- **Autores:** [I Monster](../Autores/I%20Monster.md)

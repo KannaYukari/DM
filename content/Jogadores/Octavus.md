@@ -48,5 +48,15 @@
 ## J - Just Lose It
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9dcVOmEQzKA?si=A10nq2lsazUapq5y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-- **Música:** [Just Lose It](../../Just%20Lose%20It.md)
-- **Autores:** [Eminem](../../Eminem.md)
+- **Música:** [Just Lose It](../Músicas/Just%20Lose%20It.md)
+- **Autores:** [Eminem](../Autores/Eminem.md)
+## K - Katachi
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4QFe2FH13wE?si=h9G7eoYMUTczlr1j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Katachi](../Músicas/Katachi.md)
+- **Autores:** [Riko Azuna](../Autores/Riko%20Azuna.md)
+## L - Life Will Change
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r47XMimB2sw?si=DHWy67i3vgY0ZYBC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Life Will Change](../Músicas/Life%20Will%20Change.md)
+- **Autores:** [Shoji Meguro](../Autores/Shoji%20Meguro.md) e [Lyn Inaizumi](../Autores/Lyn%20Inaizumi.md)

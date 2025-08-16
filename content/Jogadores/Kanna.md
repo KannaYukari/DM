@@ -48,5 +48,15 @@
 ## J - João e Maria
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Fxu-pE74m5A?si=RKkc6uufgMMjONr8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-- **Música:** [[João e Maria]]
-- **Autores:** [[Chico Buarque]]
+- **Música:** [João e Maria](../Músicas/João%20e%20Maria.md)
+- **Autores:** [Chico Buarque](../Autores/Chico%20Buarque.md)
+## K - Kamisama Hajimemashita
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CpDpUewAgpE?si=A8-6TKbbdhRn8HiS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Kamisama Hajimemashita](../Músicas/Kamisama%20Hajimemashita.md)
+- **Autores:** [Hanae](../Autores/Hanae.md)
+## L - La Fille Aux Cheveux De Lin
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZsVRrP45-7o?si=4DImXa0L9eY0SloG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [La Fille Aux Cheveux De Lin](../Músicas/La%20Fille%20Aux%20Cheveux%20De%20Lin.md)
+- **Autores:** [Yuki Kajiura](../Autores/Yuki%20Kajiura.md) (cover de: [Claude Debussy](../Autores/Claude%20Debussy.md))
