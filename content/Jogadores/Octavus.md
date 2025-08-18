@@ -60,3 +60,13 @@
 
 - **Música:** [Life Will Change](../Músicas/Life%20Will%20Change.md)
 - **Autores:** [Shoji Meguro](../Autores/Shoji%20Meguro.md) e [Lyn Inaizumi](../Autores/Lyn%20Inaizumi.md)
+## M - MURDER IN MY MIND
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w-sQRS-Lc9k?si=dh5HWt9DqT2JDAx-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [MURDER IN MY MIND](../Músicas/MURDER%20IN%20MY%20MIND.md)
+- **Autores:** [KORDHELL](../Autores/KORDHELL.md)
+## N - Never Gonna Give You Up
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ?si=XhcjCYkiVk4Kp_JS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Never Gonna Give You Up](../Músicas/Never%20Gonna%20Give%20You%20Up.md)
+- **Autores:** [Rick Astley](../Autores/Rick%20Astley.md)

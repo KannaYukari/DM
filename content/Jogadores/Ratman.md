@@ -56,5 +56,15 @@
 ## L - Liberdade e Pecados
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3Hy9tyyE108?si=oJLT29TJLt-5gQcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-- **Música:** [[../Músicas/Liberdade e Pecados]]
-- **Autores:** [[../Autores/Onni]]
+- **Música:** [Liberdade e Pecados](../Músicas/Liberdade%20e%20Pecados.md)
+- **Autores:** [Onni](../Autores/Onni.md)
+## M - More One Night
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cUtOgwdJNUE?si=vrUACOEa04loX7QX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [More One Night](../Músicas/More%20One%20Night.md)
+- **Autores:** [Inori Minase](../Autores/Inori%20Minase.md) e [Yurika Kubo](../Autores/Yurika%20Kubo.md)
+## N - NICE TYPE
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2IfcEzhG8rI?si=nHLi_QxajfvowSMU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [NICE TYPE](../Músicas/NICE%20TYPE.md)
+- **Autores:** [KIRA](../Autores/KIRA.md) ft. [monii](../Autores/monii.md)

@@ -59,3 +59,13 @@
 
 - **Música:** [Love Me](../Músicas/Love%20Me.md)
 - **Autores:** [Lil Wayne](../Autores/Lil%20Wayne.md) ft. [Drake](../Autores/Drake.md) e [Future](../Autores/Future.md)
+## M - Murder on My Mind
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Go2MaihKX9o?si=SneVgVSOxxvmipTf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Murder on My Mind](../Músicas/Murder%20on%20My%20Mind.md)
+- **Autores:** [YNW Melly](../Autores/YNW%20Melly.md)
+## N - NEVER LEFT
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0ofKT9TGMPs?si=m9iPyhqrHz0kpGaA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [NEVER LEFT](../Músicas/NEVER%20LEFT.md)
+- **Autores:** [Lil Tecca](../Autores/Lil%20Tecca.md)

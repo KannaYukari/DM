@@ -59,3 +59,13 @@
 
 - **Música:** [Lust for a Vampyr](../Músicas/Lust%20for%20a%20Vampyr.md)
 - **Autores:** [I Monster](../Autores/I%20Monster.md)
+## M - Mood Romantica No2
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jkq4h5nXV-w?si=nVPxb82nE_993VS3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Mood Romantica No2](../Músicas/Mood%20Romantica%20No2.md)
+- **Autores:** [Lamp](../Autores/Lamp.md)
+## N - Niji No Hashi
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BrDiBvf92mQ?si=Qmhe9yBmZCkm1714" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Niji No Hashi](../Músicas/Niji%20No%20Hashi.md)
+- **Autores:** [Sayonara Ponytail](../Autores/Sayonara%20Ponytail.md)
