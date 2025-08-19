@@ -70,3 +70,8 @@
 
 - **Música:** [Never Gonna Give You Up](../Músicas/Never%20Gonna%20Give%20You%20Up.md)
 - **Autores:** [Rick Astley](../Autores/Rick%20Astley.md)
+## O - O Descobridor Dos Sete Mares
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PAUlCK8kuGU?si=vzD7ebCX-fpmFVky" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [O Descobridor Dos Sete Mares](../Músicas/O%20Descobridor%20Dos%20Sete%20Mares.md)
+- **Autores:** [Tim Maia](../Autores/Tim%20Maia.md)

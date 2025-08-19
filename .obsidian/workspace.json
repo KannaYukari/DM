@@ -11,10 +11,14 @@
             "id": "7c7fa56b825bb3fa",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "content/Autores/Tim Maia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tim Maia"
             }
           }
         ]
@@ -84,6 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "content/Autores/Tim Maia.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -111,7 +116,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Tim Maia"
             }
           }
         ]
@@ -209,34 +214,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7c7fa56b825bb3fa",
+  "active": "8afc08e9adc94d60",
   "lastOpenFiles": [
+    "content/Jogadores/Octavus.md",
+    "content/Músicas/O Descobridor Dos Sete Mares.md",
+    "content/Autores/Tim Maia.md",
     "content/Jogadores/Kanna.md",
+    "content/Autores/Vitas.md",
+    "content/Autores/Dimash.md",
+    "content/Músicas/Opera 2.md",
+    "content/Jogadores/Choco.md",
+    "content/Autores/36 Questions.md",
+    "content/Músicas/Our Word.md",
+    "content/Jogadores/Ratman.md",
+    "content/Músicas/O Rei Voltou (Yhwach).md",
+    "content/Autores/Blxck.md",
+    "content/Jogadores/Horb.md",
+    "content/Músicas/o menino foi.md",
+    "content/Autores/Sidoka.md",
+    "templates/envio.md",
     "content/Autores/ReoNa.md",
     "content/Músicas/Nai Nai.md",
-    "content/Jogadores/Octavus.md",
     "content/Músicas/Never Gonna Give You Up.md",
     "content/Autores/Rick Astley.md",
-    "content/Jogadores/Ratman.md",
     "content/Músicas/NICE TYPE.md",
     "content/Autores/monii.md",
     "content/Autores/KIRA.md",
-    "content/Jogadores/Choco.md",
     "content/Músicas/Niji No Hashi.md",
     "content/Autores/Sayonara Ponytail.md",
-    "content/Jogadores/Horb.md",
-    "content/Músicas/NEVER LEFT.md",
-    "content/Autores/Lil Tecca.md",
-    "templates/envio.md",
-    "content/Músicas/Murder on My Mind.md",
-    "content/Autores/YNW Melly.md",
-    "content/Músicas/Mademoiselle Noir.md",
-    "content/Autores/KORDHELL.md",
-    "content/Músicas/More One Night.md",
-    "content/Autores/Yurika Kubo.md",
-    "content/Autores/Inori Minase.md",
-    "content/Músicas/Mood Romantica No2.md",
-    "content/Autores/Lamp.md",
     "AC",
     "quartz/static/og-image.png",
     "templates",
