@@ -73,3 +73,8 @@
 
 - **Música:** [O Rei Voltou (Yhwach)](../Músicas/O%20Rei%20Voltou%20(Yhwach).md)
 - **Autores:** [Blxck](../Autores/Blxck.md)
+## P - Poems of a Machine
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UqUH7LHMj50?si=7NEoeWbhyUca03yu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Poems of a Machine](../Músicas/Poems%20of%20a%20Machine.md)
+- **Autores:** [Mili](../Autores/Mili.md)
