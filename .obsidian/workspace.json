@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Jogadores/Ratman.md",
+                "file": "content/Músicas/Star Shopping.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ratman"
+              "title": "Star Shopping"
             }
           }
         ]
@@ -88,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "content/Jogadores/Ratman.md",
+                "file": "content/Músicas/Star Shopping.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -138,7 +138,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Ratman"
+              "title": "Graph of Star Shopping"
             }
           }
         ]
@@ -237,34 +237,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7c7fa56b825bb3fa",
+  "active": "8afc08e9adc94d60",
   "lastOpenFiles": [
-    "content/Jogadores/Choco.md",
-    "Ruler Of My Heart.md",
-    "BL8M.md",
-    "Rubyeye.md",
-    "templates/envio.md",
-    "content/Jogadores/Octavus.md",
-    "content/Músicas/QUESTION.md",
-    "content/Autores/3-nen E-gumi Utatan.md",
-    "content/Autores/36 Questions.md",
+    "content/Músicas/Solo.md",
+    "content/Autores/SEDO Sounder.md",
+    "content/Músicas/Sabao Cra-Cra.md",
+    "content/Autores/Lil Peep.md",
     "content/Jogadores/Kanna.md",
-    "content/Músicas/Quo Vadis.md",
-    "content/Autores/M2U.md",
+    "content/Músicas/Shiritakunai.md",
+    "content/Jogadores/Octavus.md",
+    "content/Autores/Mamonas Assassinas.md",
+    "content/Jogadores/Choco.md",
+    "content/Músicas/Serenata Existencialista.md",
+    "content/Autores/O Grilo.md",
     "content/Jogadores/Ratman.md",
-    "content/Músicas/Quinto elemento.md",
-    "content/Autores/Yung lixo.md",
-    "content/Autores/Janelle Monáe.md",
-    "content/Músicas/Q.U.E.E.N..md",
-    "content/Autores/Erykah Badu.md",
-    "content/index.md",
-    "content/Jogadores/Lain.md",
-    "content/Jogadores/Gabzin.md",
-    "content/Jogadores/Dusttale.md",
-    "content/Jogadores/DJ.md",
+    "content/Músicas/Star Shopping.md",
     "content/Jogadores/Horb.md",
-    "content/Músicas/Cicatrizes.md",
-    "content/Músicas/Papum.md",
+    "content/Autores/Prismo.md",
+    "templates/envio.md",
+    "content/Autores/Egzod.md",
+    "content/Músicas/Royalty.md",
+    "content/Autores/Neoni.md",
+    "content/Autores/Maestro Chives.md",
+    "content/Músicas/Que Saudade de Você.md",
+    "content/Autores/Mc Kaio.md",
+    "content/Autores/MC L da Vinte.md",
+    "content/Músicas/Roundabout (2008 Remaster).md",
+    "content/Autores/Yes.md",
+    "content/Músicas/Rio Amazonas.md",
     "AC",
     "quartz/static/og-image.png",
     "templates",

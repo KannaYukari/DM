@@ -79,3 +79,18 @@
 
 - **Música:** [Papum](../Músicas/Papum.md)
 - **Autores:** [MC Kevinho](../Autores/MC%20Kevinho.md)
+## Q - Que Saudade de Você
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XnAgOTKWAsU?si=eXupR7vOkO8vMRxF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Que Saudade de Você](../Músicas/Que%20Saudade%20de%20Você.md)
+- **Autores:** [Mc Kaio](../Autores/Mc%20Kaio.md), [MC L da Vinte](../Autores/MC%20L%20da%20Vinte.md)
+## R - Royalty
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lW9ep22YmlM?si=_PygtYrMowrrW5XB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Royalty](../Músicas/Royalty.md)
+- **Autores:** [Egzod](../Autores/Egzod.md) & [Maestro Chives](../Autores/Maestro%20Chives.md), ft. [Neoni](../Autores/Neoni.md)
+## S - Solo
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PyaEWgk6_ks?si=eZEMPm113Nd5UOfo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Solo](../Músicas/Solo.md)
+- **Autores:** [Prismo](../Autores/Prismo.md)

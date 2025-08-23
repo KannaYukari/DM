@@ -85,3 +85,13 @@
 
 - **Música:** [QUESTION](../Músicas/QUESTION.md)
 - **Autores:** [3-nen E-gumi Utatan](../Autores/3-nen%20E-gumi%20Utatan.md)
+## R - Roundabout (2008 Remaster)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cPCLFtxpadE?si=w1QLr9voE8X47pzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Roundabout (2008 Remaster)](../Músicas/Roundabout%20(2008%20Remaster).md)
+- **Autores:** [Yes](../Autores/Yes.md)
+## S - Sabao Cra-Cra
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OR6TOqfPcvE?si=HlhFyz_FnTfuTqdb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Sabao Cra-Cra](../Músicas/Sabao%20Cra-Cra.md)
+- **Autores:** [Mamonas Assassinas](../Autores/Mamonas%20Assassinas.md)
