@@ -94,3 +94,13 @@
 
 - **Música:** [Serenata Existencialista](../Músicas/Serenata%20Existencialista.md)
 - **Autores:** [O Grilo](../Autores/O%20Grilo.md)
+## T - The World Is Yours
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ahs1-dxQ11Y?si=MB7czvAwBd3K0lqF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [The World Is Yours](../Músicas/The%20World%20Is%20Yours.md)
+- **Autores:** [UNCHAIN](../Músicas/UNCHAIN.md)
+## U - Undercover
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CZn-dx4O4gA?si=CxSCaJQ6uaei4QJl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Undercover](../Músicas/Undercover.md)
+- **Autores:** [DECO\*27](../Autores/DECO*27.md)

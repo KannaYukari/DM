@@ -93,3 +93,18 @@
 
 - **Música:** [Star Shopping](../Músicas/Star%20Shopping.md)
 - **Autores:** [Lil Peep](../Autores/Lil%20Peep.md)
+## T - TURN OVER
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9CBXbGacBl0?si=Yl4k4xWnmySyQONh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [TURN OVER](../Músicas/TURN%20OVER.md)
+- **Autores:** [9Lana](../Autores/9Lana.md)
+## U - Uma Letra
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LpBVtUQWlPA?si=9IGCFbaDP2O3Y6kW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Uma Letra](../Músicas/Uma%20Letra.md)
+- **Autores:** [Neko](../Autores/Neko.md)
+## V - VOIDSIDE SWORDFIGHT
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gT7g27QiXxQ?si=egfjTDeTEoYKKC9D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [VOIDSIDE SWORDFIGHT](../Músicas/VOIDSIDE%20SWORDFIGHT.md)
+- **Autores:** [AZALI](../Autores/AZALI.md)

@@ -95,3 +95,18 @@
 
 - **Música:** [Shiritakunai](../Músicas/Shiritakunai.md)
 - **Autores:** [SEDO Sounder](../Autores/SEDO%20Sounder.md)
+## T - Torment
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z_LybjexxkM?si=TKjhCZ-ZshLDiFCd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Torment](../Músicas/Torment.md)
+- **Autores:** [Evan Call](../Autores/Evan%20Call.md)
+## U - Unity
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uopMFSZAP_g?si=5jwTlsWuxn5SpK6g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Unity](../Músicas/Unity.md)
+- **Autores:** [Komine Lisa](../Autores/Komine%20Lisa.md)
+## V - Villain
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ghpn99s8I-U?si=Eby8km6ZToQRbnNs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Villain](../Músicas/Villain.md)
+- **Autores:** [Stella Jang](../Autores/Stella%20Jang.md)

@@ -95,3 +95,18 @@
 
 - **Música:** [Sabao Cra-Cra](../Músicas/Sabao%20Cra-Cra.md)
 - **Autores:** [Mamonas Assassinas](../Autores/Mamonas%20Assassinas.md)
+## T - Take On Me
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djV11Xbc914?si=4mxT1zJ1EsFF6w8H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Take On Me](../Músicas/Take%20On%20Me.md)
+- **Autores:** [a-ha](../Autores/a-ha.md)
+## U - U Got that
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uuBETyA_yxc?si=IYM4pdLXJduNqNx-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [U Got that](../Músicas/U%20Got%20that.md)
+- **Autores:** [Halogen](../Autores/Halogen.md)
+## V - Versus
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BhEnjxYLBYo?si=HXaOJLIpVN0MQIww" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Versus](../Músicas/Versus.md)
+- **Autores:** [Heaven Pierce Her](../Autores/Heaven%20Pierce%20Her.md)

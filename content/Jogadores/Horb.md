@@ -94,3 +94,13 @@
 
 - **Música:** [Solo](../Músicas/Solo.md)
 - **Autores:** [Prismo](../Autores/Prismo.md)
+## T - Tragédia
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K315HJC6aeM?si=zDdBcojyzr9z3cF3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Tragédia](../Músicas/Tragédia.md)
+- **Autores:** [Enygma](../Autores/Enygma.md)
+## U - União Flasco
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1tpIxo4vy80?si=dMN4lccvEp8XIxQs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [União Flasco](../Músicas/União%20Flasco.md)
+- **Autores:** [LUCKHAOS](../Autores/LUCKHAOS.md)

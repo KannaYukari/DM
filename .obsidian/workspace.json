@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Músicas/Star Shopping.md",
+                "file": "content/Músicas/Take On Me.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Star Shopping"
+              "title": "Take On Me"
             }
           }
         ]
@@ -88,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "content/Músicas/Star Shopping.md",
+                "file": "content/Músicas/Take On Me.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -138,7 +138,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Star Shopping"
+              "title": "Graph of Take On Me"
             }
           }
         ]
@@ -239,32 +239,32 @@
   },
   "active": "8afc08e9adc94d60",
   "lastOpenFiles": [
-    "content/Músicas/Solo.md",
-    "content/Autores/SEDO Sounder.md",
-    "content/Músicas/Sabao Cra-Cra.md",
-    "content/Autores/Lil Peep.md",
-    "content/Jogadores/Kanna.md",
-    "content/Músicas/Shiritakunai.md",
-    "content/Jogadores/Octavus.md",
-    "content/Autores/Mamonas Assassinas.md",
-    "content/Jogadores/Choco.md",
-    "content/Músicas/Serenata Existencialista.md",
-    "content/Autores/O Grilo.md",
+    "content/Músicas/The World Is Yours.md",
+    "content/Músicas/Take On Me.md",
+    "content/Autores/9Lana.md",
     "content/Jogadores/Ratman.md",
-    "content/Músicas/Star Shopping.md",
-    "content/Jogadores/Horb.md",
-    "content/Autores/Prismo.md",
+    "content/Autores/AZALI.md",
+    "content/Músicas/VOIDSIDE SWORDFIGHT.md",
+    "content/Jogadores/Kanna.md",
+    "content/Músicas/Villain.md",
+    "content/Autores/Stella Jang.md",
     "templates/envio.md",
-    "content/Autores/Egzod.md",
-    "content/Músicas/Royalty.md",
-    "content/Autores/Neoni.md",
-    "content/Autores/Maestro Chives.md",
-    "content/Músicas/Que Saudade de Você.md",
-    "content/Autores/Mc Kaio.md",
-    "content/Autores/MC L da Vinte.md",
-    "content/Músicas/Roundabout (2008 Remaster).md",
-    "content/Autores/Yes.md",
-    "content/Músicas/Rio Amazonas.md",
+    "content/Jogadores/Octavus.md",
+    "content/Músicas/U Got that.md",
+    "content/Autores/Halogen.md",
+    "content/Músicas/Versus.md",
+    "content/Autores/Heaven Pierce Her.md",
+    "content/Autores/a-ha.md",
+    "content/Autores/Koda.md",
+    "content/Músicas/Unity.md",
+    "content/Autores/Komine Lisa.md",
+    "content/Jogadores/Choco.md",
+    "content/Músicas/Undercover.md",
+    "content/Autores/DECO*27.md",
+    "content/Autores/Neko.md",
+    "content/Músicas/Uma Letra.md",
+    "content/Jogadores/Horb.md",
+    "content/Músicas/União Flasco.md",
     "AC",
     "quartz/static/og-image.png",
     "templates",
