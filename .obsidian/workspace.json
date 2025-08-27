@@ -8,20 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7c7fa56b825bb3fa",
+            "id": "2a8aa86330d43f2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Músicas/Take On Me.md",
+                "file": "content/Jogadores/Kanna.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Take On Me"
+              "title": "Kanna"
+            }
+          },
+          {
+            "id": "07bc3cf8ab08fd81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Músicas/Valeu.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Valeu"
+            }
+          },
+          {
+            "id": "995e0815f643d67d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wonderwall.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Wonderwall"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +117,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "content/Músicas/Take On Me.md",
+                "file": "content/Músicas/Valeu.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -138,7 +167,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Take On Me"
+              "title": "Graph of Valeu"
             }
           }
         ]
@@ -239,32 +268,32 @@
   },
   "active": "8afc08e9adc94d60",
   "lastOpenFiles": [
-    "content/Músicas/The World Is Yours.md",
-    "content/Músicas/Take On Me.md",
-    "content/Autores/9Lana.md",
-    "content/Jogadores/Ratman.md",
-    "content/Autores/AZALI.md",
-    "content/Músicas/VOIDSIDE SWORDFIGHT.md",
+    "content/Autores/Alva.md",
+    "content/Músicas/Wonderwall.md",
     "content/Jogadores/Kanna.md",
-    "content/Músicas/Villain.md",
-    "content/Autores/Stella Jang.md",
-    "templates/envio.md",
+    "content/Autores/Oasis.md",
+    "content/Autores/Hiroshi Kitadani.md",
+    "content/Músicas/We Are!.md",
     "content/Jogadores/Octavus.md",
-    "content/Músicas/U Got that.md",
-    "content/Autores/Halogen.md",
-    "content/Músicas/Versus.md",
-    "content/Autores/Heaven Pierce Her.md",
-    "content/Autores/a-ha.md",
-    "content/Autores/Koda.md",
-    "content/Músicas/Unity.md",
-    "content/Autores/Komine Lisa.md",
+    "content/Jogadores/Ratman.md",
+    "content/Músicas/Willow Shrimp.md",
+    "content/Autores/nihmune.md",
     "content/Jogadores/Choco.md",
-    "content/Músicas/Undercover.md",
-    "content/Autores/DECO*27.md",
-    "content/Autores/Neko.md",
-    "content/Músicas/Uma Letra.md",
+    "content/Músicas/White kiss.md",
+    "content/Autores/Syouta Aoi.md",
     "content/Jogadores/Horb.md",
-    "content/Músicas/União Flasco.md",
+    "content/Músicas/Wave.md",
+    "content/Autores/Mikezin.md",
+    "content/Autores/Andrade.md",
+    "content/Autores/JayA Luuck.md",
+    "content/Autores/Greezy.md",
+    "templates/envio.md",
+    "content/Músicas/Vestido da Fendi.md",
+    "content/Autores/KayBlack.md",
+    "content/Músicas/Valeu.md",
+    "content/Autores/Bratislava.md",
+    "content/Autores/Fraterna Trip.md",
+    "content/Músicas/Take On Me.md",
     "AC",
     "quartz/static/og-image.png",
     "templates",

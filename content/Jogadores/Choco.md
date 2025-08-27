@@ -104,3 +104,13 @@
 
 - **Música:** [Undercover](../Músicas/Undercover.md)
 - **Autores:** [DECO\*27](../Autores/DECO*27.md)
+## V - Valeu
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CNT7YVbeigQ?si=Uh9kw6waJTEnYQiq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Valeu](../Músicas/Valeu.md)
+- **Autores:** [Bratislava](../Autores/Bratislava.md) ft. [Fraterna Trip](../Autores/Fraterna%20Trip.md)
+## W - White kiss
+<iframe width="560" height="315" src="https://www.youtube.com/embed/blJqVQj3Ub8?si=none9lFa3HzbhcQc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [White kiss](../Músicas/White%20kiss.md)
+- **Autores:** Snow White ([Syouta Aoi](../Autores/Syouta%20Aoi.md))

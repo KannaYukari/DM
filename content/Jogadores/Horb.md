@@ -104,3 +104,13 @@
 
 - **Música:** [União Flasco](../Músicas/União%20Flasco.md)
 - **Autores:** [LUCKHAOS](../Autores/LUCKHAOS.md)
+## V - Vestido da Fendi
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7ZoF6Fzvs3o?si=nTBzo9xo4FUzDkY7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Vestido da Fendi](../Músicas/Vestido%20da%20Fendi.md)
+- **Autores:** [KayBlack](../Autores/KayBlack.md)
+## W - Wave
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xmxUCIcO9No?si=s-ZXCMK-6HKqckvH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Wave](../Músicas/Wave.md)
+- **Autores:** [Mikezin](../Autores/Mikezin.md), [Andrade](../Autores/Andrade.md), [JayA Luuck](../Autores/JayA%20Luuck.md), [Alva](../Autores/Alva.md), [Greezy](../Autores/Greezy.md)

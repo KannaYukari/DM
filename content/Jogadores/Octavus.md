@@ -110,3 +110,8 @@
 
 - **Música:** [Versus](../Músicas/Versus.md)
 - **Autores:** [Heaven Pierce Her](../Autores/Heaven%20Pierce%20Her.md)
+## W - We Are!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YoeP9w5UIlg?si=Mpym3lPEQ9PFjftn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [We Are!](../Músicas/We%20Are!.md)
+- **Autores:** [Hiroshi Kitadani](../Autores/Hiroshi%20Kitadani.md)
