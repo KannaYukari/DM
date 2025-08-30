@@ -114,3 +114,18 @@
 
 - **Música:** [White kiss](../Músicas/White%20kiss.md)
 - **Autores:** Snow White ([Syouta Aoi](../Autores/Syouta%20Aoi.md))
+## X - Xscape
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O3Zj8GMby3o?si=G1PJjhSO1p9SWmf1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Xscape](../Músicas/Xscape.md)
+- **Autores:** [Michael Jackson](../Autores/Michael%20Jackson.md)
+## Y - You
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7as_BTOh-Lg?si=KMDmhs2AtVDiTLIW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [You](../Músicas/You.md)
+- **Autores:** [Vietra](../Autores/Vietra.md)
+## Z - Zydrate Anatomy
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AWJuVEuYkD4?si=ZoCSVVpm9ZodgxVm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Zydrate Anatomy](../Músicas/Zydrate%20Anatomy.md)
+- **Autores:** [Paris Hilton](../Autores/Paris%20Hilton.md) ft. [Alexa Vega](../Autores/Alexa%20Vega.md) e [Terrance Zdunich](../Autores/Terrance%20Zdunich.md)

@@ -113,3 +113,13 @@
 
 - **Música:** [Willow Shrimp](../Músicas/Willow%20Shrimp.md)
 - **Autores:** [nihmune](../Autores/nihmune.md)
+## X - XyHATTE
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0d4j1f0tZFc?si=U6kyJCSTwGUpvae7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [XyHATTE](../Músicas/XyHATTE.md)
+- **Autores:** [cosMo@暴走P](../Autores/cosMo@暴走P.md)
+## Y - Yung Dumb Goth 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D7svZercje8?si=FKgyVSb7ULR0iUGM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Yung Dumb Goth](../Músicas/Yung%20Dumb%20Goth.md)
+- **Autores:** [lagosta](../Autores/lagosta.md)

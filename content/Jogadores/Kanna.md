@@ -115,3 +115,18 @@
 
 - **Música:** [Wonderwall](../Músicas/Wonderwall.md)
 - **Autores:** [Oasis](../Autores/Oasis.md)
+## X - XL-TT
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P746XQJyjfA?si=G-AiRNJuPs2eOiOY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [XL-TT](../Músicas/XL-TT.md)
+- **Autores:** [Hiroyuki Sawano](../Autores/Hiroyuki%20Sawano.md)
+## Y - YOUTH
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NzdN2_xutMg?si=AF_EXgNGN2z-zXGA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [YOUTH](../Músicas/YOUTH.md)
+- **Autores:** [Band-Maid](../Autores/Band-Maid.md) (cover de: [mudy on the 昨晩](../Autores/mudy%20on%20the%20昨晩.md))
+## Z - Zundoko dondondo-n
+<iframe width="560" height="315" src="https://www.youtube.com/embed/chSjybsg9UY?si=qORbFcmSGt3eULKV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Zundoko dondondo-n](../Músicas/Zundoko%20dondondo-n.md)
+- **Autores:** [Sekaseka P](../Autores/Sekaseka%20P.md)

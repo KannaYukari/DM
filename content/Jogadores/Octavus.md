@@ -115,3 +115,18 @@
 
 - **Música:** [We Are!](../Músicas/We%20Are!.md)
 - **Autores:** [Hiroshi Kitadani](../Autores/Hiroshi%20Kitadani.md)
+## X - X & Y
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uIgxY0yWLNY?si=gVkpC_hssg6sB-6m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [X & Y](../Músicas/X%20&%20Y.md)
+- **Autores:** [Coldplay](../Autores/Coldplay.md)
+## Y - Your Song
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0b3rzv4TwWE?si=fMPlILnT7BpzpgsK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Your Song](../Músicas/Your%20Song.md)
+- **Autores:** [Elton John](../Autores/Elton%20John.md)
+## Z - Zenzenzense
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Mw66DyjQxBI?si=b8cDYMhhtT6nFeX1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Zenzenzense](../Músicas/Zenzenzense.md)
+- **Autores:** [RADWIMPS](../Autores/RADWIMPS.md)
