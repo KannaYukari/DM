@@ -11,14 +11,10 @@
             "id": "346bffe9000379f1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Músicas/X & Y.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "X & Y"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -88,7 +84,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "content/Músicas/X & Y.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -138,7 +133,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of X & Y"
+              "title": "Graph view"
             }
           }
         ]
@@ -239,6 +234,17 @@
   },
   "active": "8afc08e9adc94d60",
   "lastOpenFiles": [
+    "content/Jogadores/Choco.md",
+    "content/Músicas/Ruler Of My Heart 1.md",
+    "content/Autores/Rubyeye 1.md",
+    "content/Músicas/Ruler Of My Heart.md",
+    "content/Autores/BL8M.md",
+    "content/Autores/BL8M 1.md",
+    "content/Jogadores/Horb.md",
+    "content/Jogadores/Ratman.md",
+    "content/Músicas/Zoa, Princess of R'lyeh.md",
+    "content/Autores/M-ART.md",
+    "content/Músicas/X & Y.md",
     "content/Autores/Alexa Vega.md",
     "content/Músicas/Zenzenzense.md",
     "content/Jogadores/Octavus.md",
@@ -248,23 +254,12 @@
     "content/Jogadores/Kanna.md",
     "content/Músicas/Zundoko dondondo-n.md",
     "content/Autores/Sekaseka P.md",
-    "content/Jogadores/Choco.md",
     "content/Músicas/Zydrate Anatomy.md",
     "content/Autores/Paris Hilton.md",
     "content/Autores/Terrance Zdunich.md",
     "templates/envio.md",
-    "content/Jogadores/Ratman.md",
     "content/Músicas/Yung Dumb Goth.md",
     "content/Autores/lagosta.md",
-    "content/Músicas/YOUTH.md",
-    "content/Autores/Band-Maid.md",
-    "content/Autores/mudy on the 昨晩.md",
-    "content/Músicas/You.md",
-    "content/Autores/Vietra.md",
-    "content/Músicas/XL-TT.md",
-    "content/Autores/Hiroyuki Sawano.md",
-    "content/Músicas/X & Y.md",
-    "content/Autores/Coldplay.md",
     "AC",
     "quartz/static/og-image.png",
     "templates",
